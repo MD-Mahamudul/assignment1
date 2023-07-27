@@ -1,0 +1,131 @@
+.top-banner{
+    width: 1600px;
+    height: 850px;
+    flex-shrink: 0;
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    
+    
+}
+.banner-content{
+    max-width: 500px;
+    margin-left: 150px;
+    /* margin-right: 50px; */
+    
+}
+
+.banner-title{
+    color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.button-decoration{
+    border-radius: 8px;
+    padding: 20px 43px;
+    background-color: #E55473;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    border-style: none;
+    margin-top: 35px;
+ 
+
+}
+
+.pro-pic{
+    width: 650px;
+    height: 800px;
+    
+    margin: 50px 150px 0 150px ;
+}
+
+.flowers-content{
+    text-align: center;
+}
+
+.flowers-title{
+    margin-top: 140px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.flowers-pic-continer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    margin-top: 100px;
+    
+}
+
+.flowers-pic1{
+    
+    background-color: rgb(146, 236, 236);
+    margin: 10px;
+    padding: 150px 50px 0px 50px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.flowers-pic2{
+    background-color: #f0869d;
+    margin: 10px;
+    padding: 100px 50px 0 50px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+
+}
+
+.flowers-pic3{
+    background-color: rgb(132, 223, 226);
+    margin: 10px;
+    
+    padding: 100px 50px 50px 50px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+
+.flower-name{
+    color: #272727;
+/* text-align: center; */
+font-family: Lato;
+font-size: 22px;
+/* font-style: normal; */
+font-weight: 600;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+}
+.order-det{
+    background-color:  rgba(229, 84, 115, 0.10);
+    width: 1300px;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   margin: 100px 150px;
+}
+
+.order-content{
+    padding: 70px;
+}
+.order-img{
+    height: 80px;
+    width: 80px;
+}
